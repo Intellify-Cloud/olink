@@ -79,16 +79,16 @@ clients:
     list:
       - title: "ABSA"
         url: https://www.absa.co.za
-        logo: assets/img/clients/absa.jpg
+        logo: assets/img/clients/absa-bw.jpg
       - title: "Standard Bank"
         url: https://www.absa.co.za
-        logo: assets/img/clients/SBSA.jpg
+        logo: assets/img/clients/SBSA-bw.jpg
       - title: "Nedbank"
         url: https://www.absa.co.za
-        logo: assets/img/clients/nedbank.jpg
+        logo: assets/img/clients/nedbank-bw.jpg
       - title: "FNB"
         url: https://www.fnb.co.za/
-        logo: assets/img/clients/fnb.jpg
+        logo: assets/img/clients/fnb-bw.jpg
     
 team:
     title: "OUR TEAM"
