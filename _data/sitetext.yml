@@ -3,28 +3,28 @@ header:
     text: Welcome to oobalink
     branches:
       - name: Northern Suburbs (WC)
-        link: "/boland"
+        link: "/boland-cape-winelands"
       - name: Boland and Winelands (WC)
-        link: "/boland"
+        link: "/boland-cape-winelands"
       - name: Pretoria (GP)
-        link: "/boland"
+        link: "/boland-cape-winelands"
       - name: Southern Suburbs & Atlantic Seaboard (WC)
-        link: "/boland"
+        link: "/boland-cape-winelands"
 
 services:
     title: "Services"
     text: "How we can help you"
     section: services
     list:
-      - title: "&micro;-sites"
-        desc: "A micro-site is one that establishes a web-presence that helps your customers find you.  Typically a single page such as this one."
-        icon: fas fa-cloud
-      - title: "Responsive Design"
-        desc: "Your &micro;-site will render correctly not only on desktop-sized screen but also on mobile-sized screens."
-        icon: fas fa-laptop       
-      - title: "Additional"
-        desc: "If you require additional services or functionality simply get in touch and we can have a chat."
-        icon: fas fa-shopping-cart
+      - title: "I Found a Home!"
+        desc: "I found my dream hone and want to make offer to purchase."
+        icon: fas fa-home
+      - title: "I Want to Get Pre-qualified"
+        desc: "I need to know my credit score and how much I can but for and afford"
+        icon: fas fa-tasks       
+      - title: "I’m Still Looking for a Home"
+        desc: "I’m searching property portals and visiting show houses"
+        icon: fas fa-search
 
 portfolio:
     title: "Portfolio"
@@ -34,7 +34,7 @@ portfolio:
     
 
 timeline:
-    title: "The Process" 
+    title: "Steps in the Buying Process" 
     text: "This is a quick breakdown of the home buying process"
     section: timeline
     events:
@@ -65,7 +65,7 @@ timeline:
         desc: "We apply with all the banks, including your own, to provide you with comparative homeloan rates. You then decide what bank you want to proceed with from the  bank quotes. **We Help Every Step of the Way!**"
         image: assets/img/timeline/5.jpg
         alt: image alt text
-    end: "Make us Part <br> of Your <br> Story!"
+    end: "Make Us <br> Part of <br> Your Story!"
 
 about:
     title: "About Us"
@@ -74,50 +74,50 @@ about:
 
 clients:
     section: clients
-    max-height: 100px
+    max-height: 120px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "ABSA"
+        url: https://www.absa.co.za
+        logo: assets/img/clients/absa.jpg
+      - title: "Standard Bank"
+        url: https://www.absa.co.za
+        logo: assets/img/clients/SBSA.jpg
+      - title: "Nedbank"
+        url: https://www.absa.co.za
+        logo: assets/img/clients/nedbank.jpg
+      - title: "FNB"
+        url: https://www.fnb.co.za/
+        logo: assets/img/clients/fnb.jpg
     
 team:
     title: "OUR TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    # text: "Lorem ipsum dolor sit amet consectetur."
+    # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Eben Roux"
-        role: "Full-Stack Developer"
-        image: assets/img/team/eben.png
+      - name: "Gavin Young"
+        role: "Franchise Owner"
+        image: assets/img/team/gavin-young.jpg
         social:
           - url: https://stackoverflow.com/users/324157/eben-roux
-            icon: fab fa-stack-overflow
+            icon: fas fa-envelope
           - url: https://www.linkedin.com/in/eben-roux-854923135/
             icon: fab fa-linkedin-in
-          - url: https://twitter.com/EbenRoux2
-            icon: fab fa-twitter
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+          - url: 083 325 9537
+            icon: fas fa-phone
+      - name: "Laura Parker"
+        role: "Bond Consultant"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          - url: 083 325 9537
+            icon: fas fa-phone
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Diana Peterson"
+        role: "Office Admin"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -141,8 +141,8 @@ footer:
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
+      # - url: https://github.com/raviriley/agency-jekyll-theme
+      #   icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 

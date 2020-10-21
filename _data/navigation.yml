@@ -5,11 +5,11 @@ nav:
   - title: "Portfolio"
     section: portfolio
     
-  - title: "About"
+  - title: "Buying"
     section: timeline
 
-  - title: "Team"
-    section: team
+  - title: "Calculators"
+    url: /calculators
 
   - title: "Contact"
     section: contact

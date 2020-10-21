@@ -13,6 +13,7 @@
     background-color: $primary;
     @include heading-font;
   }
+  
   .navbar-brand {
     color: $primary;
     @include script-font;
@@ -26,11 +27,11 @@
   .navbar-nav {
     .nav-item {
       .nav-link {
-        font-size: 90%;
+        font-size: 95%;
         font-weight: 500;
         padding: 0.75em 0;
-        letter-spacing: 1px;
-        color: #83c422;
+        letter-spacing: 1.5px;
+        color: #7cb626;
         @include heading-font;
         &.active,
         &:hover {
