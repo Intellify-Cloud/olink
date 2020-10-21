@@ -1,0 +1,15 @@
+url    : "https://intellify-cloud.github.io/site/"
+baseurl: ""
+
+title      : oobalink
+email      : sales@intellify.co.za
+description: "Go online. Grow online."
+author     : Eben Roux / Pieter Oosthuizen
+
+analytics:
+  google: #Google Analytics tracking code here
+
+collections:
+  portfolio:
+
+markdown: kramdown
