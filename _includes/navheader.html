@@ -44,23 +44,10 @@
         {%- if site.data.sitetext.header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
         {%- endif -%}
-        {%- if site.data.sitetext.header.branch1 -%}
+        {% for branch in site.data.sitetext.header.branches %}
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
-          href="{{ site.data.sitetext.header.buttonlink1 }}">{{ site.data.sitetext.header.branch1 }}</a>
-          {%- endif -%}
-        {%- if site.data.sitetext.header.branch2 -%}
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
-          href="{{ site.data.sitetext.header.buttonlink1 }}">{{ site.data.sitetext.header.branch2 }}</a>
-        {%- endif -%}
-        {%- if site.data.sitetext.header.branch3 -%}
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
-          href="{{ site.data.sitetext.header.buttonlink1 }}">{{ site.data.sitetext.header.branch3 }}</a>
-        {%- endif -%}
-        {%- if site.data.sitetext.header.branch4 -%}
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
-          href="{{ site.data.sitetext.header.buttonlink1 }}">{{ site.data.sitetext.header.branch4 }}</a>
-        {%- endif -%}
-
+          href="{{ branch.link }}">{{ branch.name }}</a>
+        {% endfor %}
       </div>
     </div>
   </header>

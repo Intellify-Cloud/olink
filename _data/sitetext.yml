@@ -1,14 +1,15 @@
 header:
     title: Your link to home finance expertise.
     text: Welcome to oobalink
-    branch1: Northern Suburbs (WC)
-    buttonlink1: "#services"
-    branch2: Boland and Winelands (WC)
-    buttonlink: "#services"
-    branch3: Pretoria (GP)
-    buttonlink: "#services"
-    branch4: Southern Suburbs & Atlantic Seaboard (WC)
-    buttonlink: "#services"
+    branches:
+      - name: Northern Suburbs (WC)
+        link: "/boland"
+      - name: Boland and Winelands (WC)
+        link: "/boland"
+      - name: Pretoria (GP)
+        link: "/boland"
+      - name: Southern Suburbs & Atlantic Seaboard (WC)
+        link: "/boland"
 
 services:
     title: "Services"

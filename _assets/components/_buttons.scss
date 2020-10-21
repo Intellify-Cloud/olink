@@ -1,5 +1,8 @@
-// Button Styles
-.btn {
+/*!
+ * Button styling
+ */
+
+ .btn {
   @include heading-font;
   font-weight: 700;
 }

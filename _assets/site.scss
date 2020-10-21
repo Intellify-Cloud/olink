@@ -6,15 +6,11 @@
 $header-image: "./img/header.jpg";
 $contact-image: "./img/contact.png";
 
-$primary: rgb(255, 0, 0) !default;
-$white: rgb(255, 0, 0) !default;
-$black: #000 !default;
-$body-color:$gray-900;
+$primary: #7ac142;
+$white: #fff;
+$black: #000;
 $input-height:calc(#{$input-height-inner} + #{$input-height-border});
-$theme-colors: (
-    "primary": #ff613d,     
-    "secondary": #505050
-    );
+
 $spacer:1rem;
 $border-width:3px;
 $border-radius:0;
@@ -44,6 +40,5 @@ $enable-gradients:false;
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Roboto Condensed",sans-serif,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #7ac142;
     webkit-tap-highlight-color: $primary;
 }
