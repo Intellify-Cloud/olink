@@ -27,7 +27,7 @@ services:
         icon: fas fa-search
 
 portfolio:
-    title: "Portfolio"
+    title: "Other Services"
     text: "Some of our work"
     section: portfolio
     closebutton: "Close"

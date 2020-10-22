@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Insure
   subtitle: Find Our More about Insurance
-  thumbnail: /assets/img/portfolio/insurance.jpg
+  thumbnail: ./assets/img/portfolio/insurance.jpg
   
 #what displays when the item is clicked:
 title: Insurance
