@@ -108,12 +108,12 @@ clients:
       - title: "Ithala Bank"
         url: https://www.ithala.co.za
         logo: assets/img/clients/ithala-bank.png
+      - title: "Rand Merchant Bank"
+        url: https://www.rmb.co.za
+        logo: assets/img/clients/absa-bw.png
       - title: "Nedbank"
         url: https://www.nedbank.co.za
         logo: assets/img/clients/nedbank-bw.png
-      - title: "Rand Merchant Bank"
-        url: https://www.rmb.co.za
-        logo: assets/img/clients/rmb.png
       - title: "Standard Bank"
         url: https://www.absa.co.za
         logo: assets/img/clients/SBSA-bw.png
