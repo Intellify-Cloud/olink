@@ -5,11 +5,8 @@ nav:
   - title: "Why evo Up!"
     section: textblock
 
-  - title: "Portfolio"
-    section: portfolio
-    
-  - title: "Buying"
-    section: timeline
+  - title: "Team"
+    section: team
 
   - title: "Calculators"
     url: /calculators
