@@ -19,3 +19,6 @@ webserver_headers:
     - "*"
   - - Access-Control-Allow-Methods
     - GET, OPTIONS, HEAD
+
+logo:
+  path: /assets/img/olink.png

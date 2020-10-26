@@ -11,17 +11,13 @@
         </div>
       </div>
 	  
-      <div class="row text-left">
+      <div class="row">
+        <ul>
 	  {% for textblock in site.data.sitetext.textblock.list %}
-        <!-- <div class="col-md-12"> -->
-          <!-- <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="{{ textblock.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
-          </span> -->
-          <h6 class="textblock-heading" style="color: #01acc8;">{{ textblock.title | markdownify }}</h6>
-          {% if textblock.desc %}<div class="text-muted">{{ textblock.desc | markdownify }}</div>{% endif %}
-        <!-- </div> -->
+          <li class="textblock-heading">{{ textblock.title }}</li>
 	  {% endfor %}
+        </ul>
+    {% if site.data.sitetext.textblock.footer %}<div class="text-muted text-center w-100">{{ site.data.sitetext.textblock.footer | markdownify }}</div>{% endif %}
       </div>
 	  
     </div>

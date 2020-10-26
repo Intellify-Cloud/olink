@@ -19,9 +19,15 @@ services:
       - title: "Bond Origination"
         desc: "We submit your application to up to seven banks to get you the best rate, at NO cost to you?"
         icon: fas fa-home
+        link: 
+          url: /someurl
+          text: "Going somewhere"
       - title: "Pre-qualification"
         desc: "One of our experts will help check your credit record, income and expenses to give you an accurate assessment of what you can afford. We let you know how likely you are to qualify for a bond."
         icon: fas fa-tasks       
+        link:
+          url: /anotherurl
+          text: "Off to there"
       - title: "I’m Still Looking for a Home"
         desc: "I’m searching property portals and visiting show houses"
         icon: fas fa-search
@@ -29,15 +35,14 @@ services:
 textblock:
     title: "Why evo Up!"
     text: "Home loans are our business, and we focus on getting bonds approved."
+    footer: "Our service completely FREE, with no obligation."
     section: textblock
     list:
-      - title: "* We help you complete one application, which we submit to all the banks."
-      - title: "* We apply to the banks including your own to get quotes."
-      - title: "* You can then compare the various quotes."
-      - title: "* We will negotiate the rate & terms on your behalf."
-      - title: "* We can assist you in securing a zero deposit bond if required."
-        desc: "Our service completely FREE, with no obligation."
-        # icon: fas fa-home
+      - title: "We help you complete one application, which we submit to all the banks."
+      - title: "We apply to the banks including your own to get quotes."
+      - title: "You can then compare the various quotes."
+      - title: "We will negotiate the rate & terms on your behalf."
+      - title: "We can assist you in securing a zero deposit bond if required."
 
 portfolio:
     title: "Other Services"
