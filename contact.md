@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Boland & Winelands
+title: evo Up!
 background: grey
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Boland & Cape Winelands</h2>
+	<h1 class="section-heading text-uppercase">evo Up!</h1>
 </div>
 
 Gavin Young is a franchisee in oobalink Western Cape, and the owner of oobalink Boland & Cape Winelands. "I graduated from Stellenbosch University in 1985 and since then have spent most of my working life in banking at a Regional and Head Office level. I left banking in mid 2006 and started my own mortgage origination business.
@@ -22,7 +22,7 @@ My focus is delivering service to agents and bond applicants by applying all my 
 * Tel: <a href="tel:+27217127943">+27 21 712 7943</a>
 * Fax: +27 865 117 076
 * Cell: <a href="tel:+27833259537">+27 83 325 9537</a>
-* E-mail: <a href="mailto:gavin@ooba-link.co.za?subject=Mail from our Website">gavin@ooba-link.co.za</a>.
+* E-mail: <a href="mailto:gavin@ooba-link.co.za?subject=Mail from our Website">gavin@ooba-link.co.za</a>
 
 <br>
 

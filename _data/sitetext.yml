@@ -20,14 +20,14 @@ services:
         desc: "We submit your application to up to seven banks to get you the best rate, at NO cost to you?"
         icon: fas fa-home
         link: 
-          url: /someurl
-          text: "Contact Us"
+          url: mailto:admin@office.co.za?subject=Mail from our Website
+          text: "Email Us"
       - title: "Pre-qualification"
         desc: "One of our experts will help check your credit record, income and expenses to give you an accurate assessment of what you can afford. We let you know how likely you are to qualify for a bond."
         icon: fas fa-tasks       
         link:
-          url: /anotherurl
-          text: "Contact Us"
+          url: tel:+27833259537
+          text: "Call Us"
       - title: "I’m Still Looking for a Home"
         desc: "I’m searching property portals and visiting show houses"
         icon: fas fa-search
@@ -87,8 +87,9 @@ timeline:
 
 about:
     title: "About Us"
-    text: "our story"
-    section: about
+    text: "It was after I retired from the job market that I returned to my old love: woodworking. It was after I retired from the job market that I returned to my old love: woodworking.It was after I retired from the job market that I returned to my old love: woodworking.It was after I retired from the job market that I returned to my old love: woodworking.It was after I retired from the job market that I returned to my old love: woodworking.It was after I retired from the job market that I returned to my old love: woodworking.It was after I retired from the job market that I returned to my old love: woodworking.It was after I retired from the job market that I returned to my old love: woodworking.It was after I retired from the job market that I returned to my old love: woodworking."
+    text2: "The title nods to the nautical rally cry, “All hands on deck,” and the album stands as the most collaborative and cohesive project the crew has yet produced. New Noise Magazine called the record, “their most immediately catchy work yet…easily a career high.” After an interview at this year’s SXSW, Fast Company Magazine wrote, “their beats are fiercely contemporary, and the five rappers…are ferocious wordsmiths with forward-thinking rhymes.” It was made by old friends who’ve tuned their craft, both together and individually, for over a decade. And it shows. Both the catchiest and densest album in the group’s catalog, All Hands adeptly walks a tightrope of immediately memorable hooks and in-depth lyricism that rewards repeated listens. The result is equally worthy of up-to-11 trunk-rattling drives as it is late-night headphone sessions."
+
 
 clients:
     section: clients
@@ -113,7 +114,7 @@ clients:
       - title: "Standard Bank"
         url: https://www.absa.co.za
         logo: assets/img/clients/SBSA-bw.png
-      - title: "Rand Merchant bank Bank"
+      - title: "Rand Merchant Bank"
         url: https://www.rmb.co.za
         logo: assets/img/clients/rmb.png
       
@@ -164,7 +165,7 @@ contact:
     section: team
     
 footer:
-    legal: "Privacy Policy"
+    legal: "Powered by the evo Group"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"  

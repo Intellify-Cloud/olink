@@ -8,8 +8,11 @@ nav:
   - title: "Team"
     section: team
 
+  - title: "About"
+    section: about
+
   - title: "Calculators"
     url: /calculators
 
   - title: "Contact"
-    section: contact
+    url: /contact
