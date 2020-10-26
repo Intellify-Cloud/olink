@@ -6,7 +6,7 @@
 $header-image: "./img/header.jpg";
 $contact-image: "./img/contact.png";
 
-$primary: #7ac142;
+$primary: #eaab28;
 $white: #fff;
 $black: #000;
 $input-height:calc(#{$input-height-inner} + #{$input-height-border});
@@ -36,6 +36,8 @@ $enable-gradients:false;
 @import "layout/team.scss";
 @import "layout/contact.scss";
 @import "layout/footer.scss";
+@import "layout/clients.scss";
+@import "layout/textblock.scss";
 
 body {
     overflow-x: hidden;

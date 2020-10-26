@@ -2,6 +2,9 @@ nav:
   - title: "Services"
     section: services
 
+  - title: "Why evo Up!"
+    section: textblock
+
   - title: "Portfolio"
     section: portfolio
     

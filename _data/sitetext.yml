@@ -1,6 +1,6 @@
 header:
-    title: Your link to home finance expertise.
-    text: Welcome to oobalink
+    title: Welcome to evo UP!
+    text: Your home finance experts.
     branches:
       - name: Northern Suburbs (WC)
         link: "/boland-cape-winelands"
@@ -12,19 +12,32 @@ header:
         link: "/boland-cape-winelands"
 
 services:
-    title: "Services"
-    text: "How we can help you"
+    title: "Services We Offer"
+    text: "We get you the most competitive rate by sourcing quotes from the banks for you to compare."
     section: services
     list:
-      - title: "I Found a Home!"
-        desc: "I found my dream hone and want to make offer to purchase."
+      - title: "Bond Origination"
+        desc: "We submit your application to up to seven banks to get you the best rate, at NO cost to you?"
         icon: fas fa-home
-      - title: "I Want to Get Pre-qualified"
-        desc: "I need to know my credit score and how much I can but for and afford"
+      - title: "Pre-qualification"
+        desc: "One of our experts will help check your credit record, income and expenses to give you an accurate assessment of what you can afford. We let you know how likely you are to qualify for a bond."
         icon: fas fa-tasks       
       - title: "I’m Still Looking for a Home"
         desc: "I’m searching property portals and visiting show houses"
         icon: fas fa-search
+
+textblock:
+    title: "Why evo Up!"
+    text: "Home loans are our business, and we focus on getting bonds approved."
+    section: textblock
+    list:
+      - title: "* We help you complete one application, which we submit to all the banks."
+      - title: "* We apply to the banks including your own to get quotes."
+      - title: "* You can then compare the various quotes."
+      - title: "* We will negotiate the rate & terms on your behalf."
+      - title: "* We can assist you in securing a zero deposit bond if required."
+        desc: "Our service completely FREE, with no obligation."
+        # icon: fas fa-home
 
 portfolio:
     title: "Other Services"
@@ -79,16 +92,26 @@ clients:
     list:
       - title: "ABSA"
         url: https://www.absa.co.za
-        logo: assets/img/clients/absa-bw.jpg
-      - title: "Standard Bank"
-        url: https://www.absa.co.za
-        logo: assets/img/clients/SBSA-bw.jpg
-      - title: "Nedbank"
-        url: https://www.absa.co.za
-        logo: assets/img/clients/nedbank-bw.jpg
+        logo: assets/img/clients/absa-bw.png
       - title: "FNB"
         url: https://www.fnb.co.za/
-        logo: assets/img/clients/fnb-bw.jpg
+        logo: assets/img/clients/fnb-bw.png
+      - title: "Investec"
+        url: https://www.investec.co.za/
+        logo: assets/img/clients/investec-bw.png
+      - title: "Ithala Bank"
+        url: https://www.ithala.co.za
+        logo: assets/img/clients/ithala-bank.png
+      - title: "Nedbank"
+        url: https://www.nedbank.co.za
+        logo: assets/img/clients/nedbank-bw.png
+      - title: "Standard Bank"
+        url: https://www.absa.co.za
+        logo: assets/img/clients/SBSA-bw.png
+      - title: "Rand Merchant bank Bank"
+        url: https://www.rmb.co.za
+        logo: assets/img/clients/rmb.png
+      
     
 team:
     title: "OUR TEAM"
