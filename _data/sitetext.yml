@@ -92,6 +92,7 @@ about:
 
 
 clients:
+    title: Bank Partners
     section: clients
     max-height: 120px
     horizontal-scrolling: "" #"yes/no"
@@ -157,7 +158,6 @@ team:
           - url: https://www.linkedin.com/in/eben-roux-854923135/
             icon: fab fa-linkedin-in
 
-          
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
