@@ -64,12 +64,14 @@
       }
     }
     &.navbar-shrink {
-      padding-top: 0;
-      padding-bottom: 0;
+      padding-top: 10px;
+      padding-bottom: 5px;
       background-color: $gray-100;
+
       .navbar-brand {
         font-size: 1.75em;
         padding: 12px 0;
+        
       }
     }
   }
