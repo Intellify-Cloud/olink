@@ -12,21 +12,32 @@ My focus is delivering service to agents and bond applicants by applying all my 
 
 {% include team.html %}
 
-#### CONTACT US
+<div class="col-lg-12 text-center">
+	<h4 class="section-heading text-uppercase">Contact us</h4>
+</div>
 
-* oobalink Boland & Cape Winelands
-* 12 Swan Lane
-* Bergvliet
-* 7945
-
-* Tel: <a href="tel:+27217127943">+27 21 712 7943</a>
-* Fax: +27 865 117 076
-* Cell: <a href="tel:+27833259537">+27 83 325 9537</a>
-* E-mail: <a href="mailto:gavin@ooba-link.co.za?subject=Mail from our Website">gavin@ooba-link.co.za</a>
+<div class="container contact-us">
+  <div class="row">
+    <div class="col-md">
+		<p>oobalink Boland & Cape Winelands</p>
+		<p>12 Swan Lane</p>
+		<p>Bergvliet</p>
+		<p>7945</p>
+    </div>
+    <div class="col-md">
+		<p>Tel: <a href="tel:+27217127943">+27 21 712 7943</a></p>
+		<p>Fax: +27 865 117 076</p>
+		<p>Cell: <a href="tel:+27833259537">+27 83 325 9537</a></p>
+		<p>E-mail: <a href="mailto:gavin@ooba-link.co.za?subject=Mail from our Website">gavin@ooba-link.co.za</a></p>
+    </div>
+  </div>
+</div>
 
 <br>
 
-### Driven
+<div class="col-lg-12 text-center">
+	<h3 class="section-heading text-uppercase">Driven</h3>
+</div>
 
 "We are driven to succeed, the focus on service, via exceptional people who have a high skill set means we have an excellent conversion ratio" says Gavin.
 
@@ -35,10 +46,4 @@ Myself and the processing team offer unsurpassed expertise and service to our co
 "We make people's dreams come true!"
 **"Ours is not a job, it's a passion."**
 
-
-
 <br>
-
-
-
-

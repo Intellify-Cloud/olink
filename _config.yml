@@ -22,3 +22,5 @@ webserver_headers:
 
 logo:
   path: /assets/img/evo up-logo.png
+
+exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
