@@ -124,36 +124,37 @@ team:
     # text: "Lorem ipsum dolor sit amet consectetur."
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
-    contact: Call Us On 012 345 6789
+    contact: Call Us On 021 553 5508
     people:
-      - name: "Diana Peterson"
-        role: "Office Admin"
+      - name: "Michelle Mostert"
+        role: "Head of Homeloans"
         image: assets/img/team/500x500.jpg
         social:
-          - url: tel:123-456-7890
+          - url: tel:084 433 6333
             icon: fas fa-phone
-          - url: mailto:admin@company.co.za?subject=Website Enquiry
+          - url: mailto:mailto:michelle.mostert@evogroup.co.za?subject=Website Enquiry
             icon: fas fa-envelope
           - url: https://facebook.com
             icon: fab fa-facebook-f
 
-      - name: "David Young"
-        role: "Owner and Consultant"
+      - name: "Charles Marais"
+        role: "Executive Director"
         image: assets/img/team/gavin-young.jpg
         social:
-          - url: tel:123-456-7890
+          - url: tel:072 594 2141
             icon: fas fa-phone
-          - url: mailto:admin@company.co.za?subject=Website Enquiry
+          - url: mailto:charles.marais@evogroup.co.za?subject=Website Enquiry
             icon: fas fa-envelope
           - url: https://www.linkedin.com/in/eben-roux-854923135/
             icon: fab fa-linkedin-in
-      - name: "Laura Parker"
-        role: "Bond Consultant"
+
+      - name: "Claudia Holtzhauzen"
+        role: "Bond Administrator"
         image: assets/img/team/2.jpg
         social:
-          - url: tel:123-456-7890
+          - url: tel:071 157 1484
             icon: fas fa-phone
-          - url: mailto:admin@company.co.za?subject=Website Enquiry
+          - url: mailto:claudia.holtzhauzen@evogroup.co.za?subject=Website Enquiry
             icon: fas fa-envelope
           - url: https://www.linkedin.com/in/eben-roux-854923135/
             icon: fab fa-linkedin-in
