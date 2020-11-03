@@ -27,7 +27,7 @@ services:
         icon: fas fa-tasks       
         link:
           url: tel:+27833259537
-          text: "Call Us"
+          text: "Call: 021 553 5508"
       - title: "I’m Still Looking for a Home"
         desc: "I’m searching property portals and visiting show houses"
         icon: fas fa-search
