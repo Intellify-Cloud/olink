@@ -13,7 +13,6 @@
     background-color: $primary;
     @include heading-font;
   }
-  
   .navbar-brand {
     color: $primary;
     @include script-font;
@@ -23,6 +22,9 @@
     &:hover {
       color: darken($primary, 10%);
     }
+  }
+  .navbar-brand > img {
+    height: 60px;
   }
   .navbar-nav {
     .nav-item {
@@ -67,11 +69,12 @@
       padding-top: 10px;
       padding-bottom: 5px;
       background-color: $gray-100;
-
       .navbar-brand {
         font-size: 1.75em;
         padding: 8px 0;
-        
+      }
+      .navbar-brand > img {
+        height: 40px;
       }
     }
   }
