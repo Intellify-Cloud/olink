@@ -21,6 +21,6 @@ webserver_headers:
     - GET, OPTIONS, HEAD
 
 logo:
-  path: /assets/img/evo up-logo1.png
+  path: /assets/logo.png
 
 exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
