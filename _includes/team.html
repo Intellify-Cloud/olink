@@ -6,7 +6,7 @@
 	  <h2 class="section-heading text-uppercase">{{ site.data.sitetext.team.title }}</h2>
 	  
 	  
-	  <a href="#"><h3 class="badge badge-pill badge-warning textblock-subheading text-muted">{{ site.data.sitetext.team.contact | default: "" }}</h3></a>
+	 <h3 class="textblock-subheading text-muted"><a class="badge badge-pill badge-warning" href="tel:{{ site.data.sitetext.team.contact | default: "" }}">Call: {{ site.data.sitetext.team.contact | default: "" }}</a></h3>
 	
 	</div>
   </div>
