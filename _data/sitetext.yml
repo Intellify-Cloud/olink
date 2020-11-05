@@ -100,9 +100,11 @@ clients:
       - title: "ABSA"
         url: https://www.absa.co.za
         logo: assets/img/clients/absa-bw.png
+
       - title: "FNB"
         url: https://www.fnb.co.za/
         logo: assets/img/clients/fnb-bw.png
+        
       - title: "Investec"
         url: https://www.investec.co.za/
         logo: assets/img/clients/investec-bw.png
@@ -116,7 +118,7 @@ clients:
         url: https://www.nedbank.co.za
         logo: assets/img/clients/nedbank-bw.png
       - title: "Standard Bank"
-        url: https://www.absa.co.za
+        url: https://www.standardbank.co.za/
         logo: assets/img/clients/SBSA-bw.png
     
 team:
@@ -124,7 +126,7 @@ team:
     # text: "Lorem ipsum dolor sit amet consectetur."
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
-    contact: Call Us On 021 553 5508
+    contact: +2721 553 5508
     people:
       - name: "Michelle Mostert"
         role: "Head of Homeloans"
