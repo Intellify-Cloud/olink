@@ -35,15 +35,3 @@ My focus is delivering service to agents and bond applicants by applying all my 
 
 <br>
 
-<div class="col-lg-12 text-center">
-	<h3 class="section-heading text-uppercase">Driven</h3>
-</div>
-
-"We are driven to succeed, the focus on service, via exceptional people who have a high skill set means we have an excellent conversion ratio" says Gavin.
-
-Myself and the processing team offer unsurpassed expertise and service to our consultants in the area. This is the engine that drives our business model which is a processing hub that is staffed with the highest calibre of people with years of banking experience.
-
-"We make people's dreams come true!"
-**"Ours is not a job, it's a passion."**
-
-<br>
