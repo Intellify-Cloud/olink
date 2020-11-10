@@ -152,14 +152,14 @@ team:
 
       - name: "Claudia Holtzhauzen"
         role: "Bond Administrator"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/Claudia Holtzhauzen - Evo Up - Bond Administrator.jpg
         social:
           - url: tel:071 157 1484
             icon: fas fa-phone
           - url: mailto:claudia.holtzhauzen@evogroup.co.za?subject=Website Enquiry
             icon: fas fa-envelope
-          - url: https://www.linkedin.com/in/eben-roux-854923135/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/eben-roux-854923135/
+          #   icon: fab fa-linkedin-in
 
 contact:
     title: "Contact Us"
